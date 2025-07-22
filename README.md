@@ -4,7 +4,7 @@ Paper Link - https://www.researchgate.net/publication/393361459_SOTA_for_Image_C
 
 Five Approaches have been tried to implement the algorithm discussed in paper - But only this one is working for now , and research is currently going on in the remaining
 Approaches , but this CNN approach requires Quantum Features to work and hence demands the Classical Preprocessing via NN , a way which was not intended to be used ,
-but unfortunately diverse training of unitary (as we dont yet how to cross corelate the unitaries - Because form our paper - Deterministic INrterpretation of NN we can safely say
+but unfortunately diverse training of unitary (as we dont yet know how to cross corelate the unitaries - Because form our paper - Deterministic INrterpretation of NN we can safely say
 NN are having (B**A)*d paths , where A is the number of piecewise linearities of the Activation Function and B is the size of the vector and d is the depth of the NN , with each path
 leading to linear equation at the end , but the weights and biases for all path remain the same , it is only the range of element x and hence the piecewise fucntion that it approximates
 changes ...) - We via the algorithm paper wanted to find the paths and crosscorelation to simulate this paths for given datasets manually , but more research is neede in this...
