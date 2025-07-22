@@ -20,4 +20,4 @@ So for now we have implemented 2nd approach....
 5. Kernalization by addition of Features to the amplitude encocding - As MNIST is degree 2 dataset , so degree 2 features and cross realated Degree 1 features will suffice - Kernalization - Only Linear UNitary will 
  will be able to distinguish the Kernel Vectors into their respective classes , without any changes to the architecture.
 
-Note - Thee final deployment on Quantum Computing will be U-Final-Classifier@U_Mappingforithsample@InputQubitGroundState , to do this one can refer the Quantum Basic Amplitude Encoding Code uploaded in the repository earlier.
+Note - The final deployment on Quantum Computing will be U-Final-Classifier@U_Mappingforithsample@InputQubitGroundState , to do this one can refer the Quantum Basic Amplitude Encoding Code uploaded in the repository earlier.
